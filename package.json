@@ -1,0 +1,25 @@
+{
+  "name": "rachel-loves-foxes",
+  "version": "1.0.0",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rjescobedo/rachel-loves-foxes.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rjescobedo/rachel-loves-foxes/issues"
+  },
+  "homepage": "https://github.com/rjescobedo/rachel-loves-foxes#readme",
+  "dependencies": {
+    "discord.js": "^14.17.3",
+    "webpack": "^5.97.1",
+    "webpack-cli": "^6.0.1"
+  },
+  "description": ""
+}
