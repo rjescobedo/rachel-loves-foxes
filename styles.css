@@ -37,7 +37,7 @@ body {
 }
 
 .fox-img {
-    width: 400px;
+    width: 350px;
     border: 10px solid var(--pink-color);
     border-radius: 10px;
 }
@@ -48,7 +48,7 @@ body {
     padding: 1rem;
     border-radius: 4px;
     text-shadow: 0 0 4px black;
-    font-size: 2.5rem;
+    font-size: 2rem;
     border: 2px solid var(--orange-color);
     margin: 1rem 0 1rem 0;
 }
