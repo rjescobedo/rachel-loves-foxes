@@ -88,3 +88,5 @@ const button = document.getElementById('btn');
 button.addEventListener('click', () => {
     getFoxData(foxes);
 });
+
+window.onload = getFoxData(foxes);
